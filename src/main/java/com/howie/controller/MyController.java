@@ -14,7 +14,7 @@ public class MyController {
         this.myService = myService;
     }
 
-    @RequestMapping(value = "/test")
+    @RequestMapping(value = "/hello")
     public String getShufflingImg(){
         return myService.test();
     }
