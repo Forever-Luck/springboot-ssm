@@ -1,2 +1,2 @@
 # SSM-SpringBoot
-SpringBoot + Spring + SpringMVC + MyBatis + Maven 框架构建
+SpringBoot + Spring + SpringMVC + MyBatis + Maven 框架搭建
